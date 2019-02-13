@@ -7,9 +7,11 @@
 | Amaury                       | Rivière du Rempart |
 | Amitié-Gokhoola              | Rivière du Rempart |
 | Anse La Raie                 | Rivière du Rempart |
+| Argy                         | Flacq              |
 | Arsenal                      | Pamplemousses      |
 | Baie du Cap                  | Savanne            |
 | Baie du Tombeau              | Pamplemousses      |
+| Balaclava                    | Pamplemousses      |
 | Bambous                      | Black River        |
 | Bambous Virieux              | Grand Port         |
 | Bananes                      | Grand Port         |
@@ -48,7 +50,7 @@
 | Cascavelle                   | Black River        |
 | Case Noyale                  | Black River        |
 | Cassis                       | Port Louis         |
-| Centre de                    | Flacq              |
+| Centre de Flacq              | Flacq              |
 | Chamarel                     | Black River        |
 | Chamouny                     | Savanne            |
 | Champ-de-Mars                | Port Louis         |
@@ -108,6 +110,7 @@
 | La Tour Koënig               | Port Louis         |
 | Lalmatie                     | Flacq              |
 | Laventure                    | Flacq              |
+| Le Goulet                    | Pamplemousses      |
 | Le Hochet                    | Pamplemousses      |
 | Le Morne                     | Black River        |
 | Les Casernes                 | Plaines Wilhems    |
@@ -134,7 +137,6 @@
 | Nouvelle France              | Grand Port         |
 | Olivia                       | Flacq              |
 | Pailles                      | Port Louis         |
-| Pailles                      | Port Louis         |
 | Palma                        | Plaines Wilhems    |
 | Pamplemousses                | Pamplemousses      |
 | Pellegrin                    | Plaines Wilhems    |
@@ -149,10 +151,12 @@
 | Plaine Lauzun                | Port Louis         |
 | Plaine Magnien               | Grand Port         |
 | Plaine-Verte                 | Port Louis         |
+| Pointe aux Biches            | Pamplemousses      |
+| Pointe aux Canonniers        | Pamplemousses      |
 | Pointe aux Piments           | Pamplemousses      |
 | Pointe-aux-Sables            | Port Louis         |
 | Port Louis                   | Port Louis         |
-| Poste de                     | Flacq              |
+| Poste de Flacq               | Flacq              |
 | Poudre d'Or                  | Rivière du Rempart |
 | Poudre d'Or Hamlet           | Rivière du Rempart |
 | Providence                   | Moka               |
@@ -165,6 +169,7 @@
 | Quinze Cantons               | Plaines Wilhems    |
 | Residence Kennedy            | Plaines Wilhems    |
 | Réunion                      | Plaines Wilhems    |
+| Riche Mare                   | Flacq              |
 | Richelieu                    | Black River        |
 | Ripailles                    | Pamplemousses      |
 | Rivière des Anguilles        | Savanne            |

@@ -14,9 +14,11 @@ INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'All�
 INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Amaury',                       'Rivière du Rempart');
 INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Amitié-Gokhoola',              'Rivière du Rempart');
 INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Anse La Raie',                 'Rivière du Rempart');
+INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Argy',                         'Flacq');
 INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Arsenal',                      'Pamplemousses');
 INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Baie du Cap',                  'Savanne');
 INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Baie du Tombeau',              'Pamplemousses');
+INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Balaclava',                    'Pamplemousses');
 INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Bambous',                      'Black River');
 INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Bambous Virieux',              'Grand Port');
 INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Bananes',                      'Grand Port');
@@ -55,7 +57,7 @@ INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Cap 
 INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Cascavelle',                   'Black River');
 INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Case Noyale',                  'Black River');
 INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Cassis',                       'Port Louis');
-INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Centre de',                    'Flacq');
+INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Centre de Flacq',              'Flacq');
 INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Chamarel',                     'Black River');
 INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Chamouny',                     'Savanne');
 INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Champ-de-Mars',                'Port Louis');
@@ -115,6 +117,7 @@ INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'La S
 INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'La Tour Koënig',               'Port Louis');
 INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Lalmatie',                     'Flacq');
 INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Laventure',                    'Flacq');
+INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Le Goulet',                    'Pamplemousses');
 INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Le Hochet',                    'Pamplemousses');
 INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Le Morne',                     'Black River');
 INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Les Casernes',                 'Plaines Wilhems');
@@ -141,7 +144,6 @@ INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Nouv
 INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Nouvelle France',              'Grand Port');
 INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Olivia',                       'Flacq');
 INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Pailles',                      'Port Louis');
-INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Pailles',                      'Port Louis');
 INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Palma',                        'Plaines Wilhems');
 INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Pamplemousses',                'Pamplemousses');
 INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Pellegrin',                    'Plaines Wilhems');
@@ -156,10 +158,12 @@ INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Plai
 INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Plaine Lauzun',                'Port Louis');
 INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Plaine Magnien',               'Grand Port');
 INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Plaine-Verte',                 'Port Louis');
+INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Pointe aux Biches',            'Pamplemousses');
+INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Pointe aux Canonniers',        'Pamplemousses');
 INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Pointe aux Piments',           'Pamplemousses');
 INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Pointe-aux-Sables',            'Port Louis');
 INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Port Louis',                   'Port Louis');
-INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Poste de',                     'Flacq');
+INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Poste de Flacq',               'Flacq');
 INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Poudre d''Or',                 'Rivière du Rempart');
 INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Poudre d''Or Hamlet',          'Rivière du Rempart');
 INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Providence',                   'Moka');
@@ -172,6 +176,7 @@ INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Quee
 INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Quinze Cantons',               'Plaines Wilhems');
 INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Residence Kennedy',            'Plaines Wilhems');
 INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Réunion',                      'Plaines Wilhems');
+INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Riche Mare',                   'Flacq');
 INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Richelieu',                    'Black River');
 INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Ripailles',                    'Pamplemousses');
 INSERT INTO places ("id", "place", "district") VALUES (uuid_generate_v4(), 'Rivière des Anguilles',        'Savanne');
