@@ -1,2 +1,3 @@
-# places-in-mauritius
-List of places (towns and villages) in Mauritius
+# Places in Mauritius
+
+List of places (towns and villages) in Mauritius.
